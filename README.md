@@ -1,5 +1,5 @@
-# FusED Introduction
-This repo consists of the source code for FusED and the demos of its found fusion errors
+# FusED
+This repo consists of the source code for FusED and the examples of the fusion errors it has found.
 
 
 ## Fusion Error Examples
